@@ -13,7 +13,7 @@ html{
     color:rgb(218, 64, 64); 
     text-shadow: 3px 4px 1px rgb(236, 149, 149);
 
-    position:fixed;
+    position:absolute;
 }
 .heading h1{
     text-align: center;
